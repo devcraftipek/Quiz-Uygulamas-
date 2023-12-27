@@ -25,8 +25,8 @@
 - Her soru bir JavaScript nesnesi olarak temsil edilir.
 - Quiz, bir dizi soruyu içeren bir JavaScript nesnesi üzerinden çalışır.
 - Kullanıcının cevapları kontrol edilir ve doğru/yanlış durumu görsel olarak belirtilir.
-
-![sc1](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/567191e4-bf31-42d9-a0fd-5dbff9ad54ad)
+  
 ![sc](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/bbc98df8-d3dc-4b4e-ae2d-098dcc2f52a4)
+![sc1](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/567191e4-bf31-42d9-a0fd-5dbff9ad54ad)
 ![sc2](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/ebc19d92-965a-447d-8218-2b3053ba597a)
 
