@@ -1,3 +1,5 @@
+Güncelleme gelecektir
+
 ## Kullanılan Teknolojiler
 
 - HTML5
