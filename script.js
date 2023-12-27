@@ -22,7 +22,7 @@ let sorular = [
 
 function Quiz (sorular) {
     this.sorular = sorular;
-    this.soruIndex = 0;
+    this.soruIndex = 0; 
 }
 
 Quiz.prototype.soruGetir = function() {
