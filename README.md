@@ -1,19 +1,18 @@
-Güncelleme gelecektir
+Bu proje, interaktif bir quiz uygulamasını içermektedir. Kullanıcılar, çeşitli konulardaki soruları cevaplayabilir ve sonunda elde ettikleri skoru görebilirler.
 
 ## Kullanılan Teknolojiler
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Font Awesome ikonları
+- Frontend: HTML, CSS, JavaScript
+- Kullanıcı Arayüzü: Bootstrap
+- Zaman Yönetimi: JavaScript Timer Fonksiyonları
+- Görsel İkonlar: Font Awesome
 
-  ## Özellikler
+## Özellikler
 
-- Başlangıç butonuyla quiz'e başlama
-- Her sorunun gösterildiği bir kart yapısı
-- Soruların, seçeneklerin ve doğru/yanlış durumlarının dinamik bir şekilde gösterilmesi
-- Sonraki soru butonu ile bir sonraki soruya geçme
+- Kullanıcı dostu arayüz.
+- Zaman sınırlı sorular.
+- Skor takibi ve sonuç ekranı.
+- Tekrar başlat ve testi bitir gibi kullanışlı düğmeler.
 
   ## Kullanım
 
@@ -22,13 +21,12 @@ Güncelleme gelecektir
 3. Cevabınızın doğru mu yoksa yanlış mı olduğunu kontrol edin.
 4. "Sonraki Soru" butonu ile bir sonraki soruya geçin.
 
-## Nasıl Çalışır
+## Nasıl Kullanılır
 
-- Her soru bir JavaScript nesnesi olarak temsil edilir.
-- Quiz, bir dizi soruyu içeren bir JavaScript nesnesi üzerinden çalışır.
-- Kullanıcının cevapları kontrol edilir ve doğru/yanlış durumu görsel olarak belirtilir.
-  
-![sc](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/bbc98df8-d3dc-4b4e-ae2d-098dcc2f52a4)
-![sc1](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/567191e4-bf31-42d9-a0fd-5dbff9ad54ad)
-![sc2](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/ebc19d92-965a-447d-8218-2b3053ba597a)
+1. **Başlangıç Ekranı:** Sayfa yüklendiğinde, kullanıcıyı karşılayan bir başlangıç butonu bulunmaktadır.
+2. **Sorular:** Her soru için bir zaman sınırlaması ile birlikte çeşitli seçenekler sunulmaktadır.
+3. **Skor Ekranı:** Kullanıcılar testi tamamladıktan sonra skorlarını görebilirler.
 
+![sc2](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/41586fbc-da0f-4e06-899f-2326a5493f2a)
+![sc1](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/5c7f7153-bb7c-42ee-bbc7-1b548eee061a)
+![sc](https://github.com/ladyvahsi/Quiz-Uygulamas-/assets/90203389/3b2c386f-5d76-47b4-99bc-df0cdff3de54)
